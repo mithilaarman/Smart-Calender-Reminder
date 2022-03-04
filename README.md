@@ -1,7 +1,7 @@
 
 
 Project Name:
-Smart Calendar & Reminder App
+Smart Calendar & Reminder Android App
 
 Tools:
 Android Studio
