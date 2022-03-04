@@ -1,7 +1,9 @@
 
 
-Project Name: Smart Calendar & Reminder
+Project Name: Smart Calendar & Reminder App
+
 Tools: Android Studio
+
 Languages : Java, Xml
 
 Description:
