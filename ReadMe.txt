@@ -21,5 +21,5 @@ Software required for implementation:
 Android Studio
 
 Languages required for implementation:
- Java
+Java
 Xml
