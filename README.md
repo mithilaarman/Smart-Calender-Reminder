@@ -30,12 +30,19 @@ Dates with events aren't highlighted. But click on a date and user can see every
 
 
 Features:
+
 1.Calender
+
 2.Add Schedule
+
 3.Sharing Schedule
+
 4.Voice Insert
+
 5.Schedule Update, Delete and Insert
+
 6.Convert into PDF
+
 7.Generate PDF
 
 
